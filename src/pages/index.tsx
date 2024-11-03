@@ -31,6 +31,7 @@ export default function Home() {
             </h2>
             <Button
               className="bg-white text-black px-8 py-3 rounded-full text-lg transition-all duration-300 ease-in-out transform hover:scale-105"
+              onClick={() => window.location.href = '/discover'}
             >
               find now
             </Button>
