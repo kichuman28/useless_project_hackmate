@@ -1,5 +1,5 @@
 
-# Hackmate 🎯
+# Hackmate (In Progress)
 
 ## Basic Details
 ### Team Name: Hackmate Dev Team
@@ -80,8 +80,6 @@ https://github.com/user-attachments/assets/92aa910b-7b9b-4733-ac7f-0b9e30ac43d6
 
 *Walkthrough of key features.*
 
-#### Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - **Adwaith Jayasankar**: Developed frontend in React and Next.js, Firebase integration for user authentication and real-time messaging.
