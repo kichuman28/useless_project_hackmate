@@ -70,6 +70,10 @@ For Software:
 
 *Make an amazing profile!*
 
+![image](https://github.com/user-attachments/assets/f7152028-4730-472c-b378-4e9e5e98ba43)
+![image](https://github.com/user-attachments/assets/298c41a0-1ea9-4f4a-b5cc-030736f1f2bc)
+
+*Discover other hackers*
 
 ## Project Demo
 
